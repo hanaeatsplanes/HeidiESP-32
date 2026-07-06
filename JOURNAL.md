@@ -35,3 +35,7 @@ I *think* i finished wiring up my USB data? it shouldn't have been this dificult
 <img width="399" height="339" alt="image" src="https://github.com/user-attachments/assets/321341f4-1dea-49f7-8aef-dbd01a1b9108" />
 
 i think this is right
+
+<img width="433" height="428" alt="image" src="https://github.com/user-attachments/assets/ca8322f5-2bd4-46ef-992c-545a4c6a1e61" />
+
+why do i need a pullup there??
