@@ -2,8 +2,8 @@
 
 ## Day 1: July 5th, 2026
 Start Time: 4:30 PM
-End Time:
-Elapsed Time:
+End Time: 5:30
+Elapsed Time: 1h
 
 So y'all know the Orpheus Pico, right? It bugs me that there's no equivalent to that for the ESP-32, the arguably better chip. So, I decided: Why not make one?
 
@@ -18,3 +18,10 @@ no images today because im in a car and i cant upload to github and i sure as he
 nyanyway, why are esp32 guides so confusing but rp guides so peak?
 
 in anycase i cant figure out for the life of me how to ground shield, but i settled on a 10nF cap and a 1M resistor
+
+## Day 2: July 6th, 2026
+Start Time: 10:30 AM
+End Time:
+Elapsed Time:
+
+workin on a weekday thats usual
