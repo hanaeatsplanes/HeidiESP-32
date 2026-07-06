@@ -31,3 +31,7 @@ okay, so i need an "ESP diode" array but I don't know how to use it... i settled
 static protection is so silly, i dont understand it and honestly i dont wanna do it 
 
 I *think* i finished wiring up my USB data? it shouldn't have been this dificult... time for power now!
+
+<img width="399" height="339" alt="image" src="https://github.com/user-attachments/assets/321341f4-1dea-49f7-8aef-dbd01a1b9108" />
+
+i think this is right
