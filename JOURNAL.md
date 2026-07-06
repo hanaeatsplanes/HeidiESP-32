@@ -12,3 +12,9 @@ I think it would be really cool if it was in the shape of Heidi, but I don't kno
 I found a guide for making ESP32 systems, so I'm gonna use this for my schamtic :D
 
 I chose the ESP32-S3 since it has USB support built in :D
+
+no images today because im in a car and i cant upload to github and i sure as hell am not putting it in the repo so :/
+
+nyanyway, why are esp32 guides so confusing but rp guides so peak?
+
+in anycase i cant figure out for the life of me how to ground shield, but i settled on a 10nF cap and a 1M resistor
