@@ -25,3 +25,9 @@ End Time:
 Elapsed Time:
 
 workin on a weekday thats usual
+
+okay, so i need an "ESP diode" array but I don't know how to use it... i settled on the USBLC6-2P6 :D
+
+static protection is so silly, i dont understand it and honestly i dont wanna do it 
+
+I *think* i finished wiring up my USB data? it shouldn't have been this dificult... time for power now!
